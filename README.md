@@ -40,8 +40,8 @@ This Python script allows you to encode and decode messages using a simple subst
 ```python
 Enter the message: Hello World
 Enter coding or decoding: coding
-# Output: W43elloHMKT W43orldWMKT
+Output: W43elloHMKT W43orldWMKT
 
 Enter the message: W43elloHMKT W43orldWMKT
 Enter coding or decoding: decoding
-# Output: Hello World
+Output: Hello World
