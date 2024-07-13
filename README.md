@@ -1,4 +1,4 @@
-##Encoding and Decoding a Message
+# Encoding and Decoding a Message
 
 # Message Encoder/Decoder
 
